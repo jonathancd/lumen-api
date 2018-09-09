@@ -1,0 +1,12 @@
+php -S localhost:8000 -t public
+
+
+https://www.codementor.io/seyiadeleke42/creating-your-first-artisan-command-in-lumen-5-5-cvi59gmgl
+
+
+
+
+JWT para autenticar
+https://medium.com/tech-tajawal/jwt-authentication-for-lumen-5-6-2376fd38d454
+
+pass the token as request body parameter
